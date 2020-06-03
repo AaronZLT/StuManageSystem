@@ -1,0 +1,123 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="DepartmentMasterPage.master.cs" Inherits="Department_DepartmentMasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="Head1" runat="server">
+    <title>现代教务管理系统</title> 
+    <script language="JavaScript" src="Jscript/Jscript.js" type="text/javascript"></script>    
+    <link href="Css/Default.css" rel="Stylesheet" />
+    <style type="text/css">
+    </style>
+
+</head>
+<body style="margin:0px;  margin:auto; width:1000px">
+    <form id="form1" runat="server">
+    <div  style=" margin:0px; width:100%; height:100%">
+            <table style="width:100%" >
+                <tr>
+                    <td colspan="3" style="height: 90px; width:100%; background-image: url(../Images/header.jpg);">
+                        </td>
+                </tr>
+                <tr>
+                    <td colspan="3" style="width:100%; height: 22px;" align="left" rowspan="" valign="top">
+                      <div class="imrcmain0 imgl" style="width:1000px;z-index:999999;position:relative; left: 0px; top: 0px;"><div class="imcm imde" id="imouter0"><ul id="imenus0">
+<li class="imatm"  style="width:100px;"><a class="" href="Default.aspx"><span class="imea imeam"><span></span></span>公告信息</a>
+
+</li>
+
+
+<li class="imatm"  style="width:100px;"><a href="Default.aspx"><span class="imea imeam"><span></span></span>公告管理</a>
+
+	<div class="imsc"><div class="imsubc" style="width:100px;top:0px;left:0px;"><ul style="">
+    <li><a href="AddAffiche.aspx">发布公告</a></li>
+    <li><a href="Default.aspx">公告信息</a></li>
+	</ul></div></div></li>
+
+
+<li class="imatm"  style="width:100px;"><a href="Default.aspx"><span class="imea imeam"><span></span></span>学生管理</a>
+
+	<div class="imsc"><div class="imsubc" style="width:100px;top:0px;left:0px;"><ul style="">
+    <li><a href="Students.aspx">学生信息</a></li>
+    <li><a href="AddStudent.aspx">录入学生</a></li>
+    <li><a href="PwdManager.aspx">密码管理</a></li>
+    <li><a href="AddPlanCourse.aspx">培养计划</a></li>
+	</ul></div></div></li>
+
+
+    <li class="imatm"  style="width:100px;"><a href="Default.aspx"><span class="imea imeam"><span></span></span>老师管理</a>
+
+	<div class="imsc"><div class="imsubc" style="width:100px;top:0px;left:0px;"><ul style="">
+    <li><a href="Teachers.aspx">教师信息</a></li>    
+    <li><a href="AddTeacher.aspx">添加教师</a></li>              
+    <li><a href="PwdManager.aspx">密码管理</a></li>
+	</ul></div></div></li>
+	
+	<li class="imatm"  style="width:100px;"><a href="Default.aspx"><span class="imea imeam"><span></span></span>学院管理</a>
+
+	<div class="imsc"><div class="imsubc" style="width:100px;top:0px;left:0px;"><ul style="">
+    <li><a href="Colleges.aspx">学院信息</a> </li>
+    <li><a href="AddCollege.aspx">添加学院</a></li>  
+    <li><a href="PwdManager.aspx">密码管理</a></li> 
+	</ul></div></div></li>
+
+
+    <li class="imatm"  style="width:100px;"><a href="Default.aspx"><span class="imea imeam"><span></span></span>专业管理</a>
+
+	<div class="imsc"><div class="imsubc" style="width:100px;top:0px;left:0px;"><ul style="">
+    <li><a href="Specialities.aspx">专业信息</a></li>
+    <li><a href="AddSpeciality.aspx">添加专业</a> </li>
+	</ul></div></div></li>
+
+
+    <li class="imatm"  style="width:100px;"><a href="Default.aspx"><span class="imea imeam"><span></span></span>班级管理</a>
+
+	<div class="imsc"><div class="imsubc" style="width:100px;top:0px;left:0px;"><ul style="">
+    <li><a href="Classes.aspx">班级信息</a></li>
+    <li><a href="AddClass.aspx">添加班级</a></li>
+	</ul></div></div></li>
+	
+    <li class="imatm"  style="width:100px;"><a href="Default.aspx"><span class="imea imeam"><span></span></span>课程管理</a>
+
+	<div class="imsc"><div class="imsubc" style="width:100px;top:0px;left:0px;"><ul style="">
+    <li><a href="Courses.aspx">课程信息</a></li>
+    <li><a href="AddCourse.aspx">添加课程</a></li>
+    <li><a href="SetChooseCourse.aspx">设置选课</a></li>
+	</ul></div></div></li>
+	
+	
+    <li class="imatm"  style="width:100px;"><a href="Default.aspx"><span class="imea imeam"><span></span></span>系统管理</a>
+
+	<div class="imsc"><div class="imsubc" style="width:100px;top:0px;left:0px;"><ul style="">
+    <li><a href="SelfInf.aspx">部门信息</a> </li>
+    <li><a href="ChangePwd.aspx">修改密码</a> </li>
+    <li><a href="Loginout.aspx">注销系统</a></li>
+    <li><a href="" onclick="window.close()" >退出系统</a></li>
+	</ul></div></div></li>
+
+
+</ul><div class="imclear">&nbsp;</div></div></div>                   
+                   <script language="JavaScript" src="Jscript/Jscript.js" type="text/javascript"></script>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3" style="; text-align: left; width:100%; height: 235px;" valign="top">
+                          <table style="width:100%; margin-bottom:-20px;">
+                              <tr>
+                                  <td colspan="3" style="height: 18px; width:100%;">
+                         <asp:Label ID="lblLoginWel" runat="server" Width="500px" Height="15px"></asp:Label></td>
+                              </tr>
+                          </table>
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+            <tr>
+            </tr>
+        </table>
+    </div>
+    </form>
+        <a href="https://github.com/AaronZLT?tab=repositories" target="_blank" title="Code">Copyright JLU</a>
+
+</body>
+</html>

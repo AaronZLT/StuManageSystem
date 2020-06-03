@@ -1,0 +1,51 @@
+<MenuData ImagesBaseURL="images/"> 
+  <MenuGroup>
+    <MenuItem Label="File">
+      <MenuGroup ExpandOffsetY="1" ExpandOffsetX="-1">
+        <MenuItem Label="New" ID="i_New"/>
+        <MenuItem Label="Open" RightIcon="arrow_white.gif" RightIconWidth="15">
+          <MenuGroup>
+            <MenuItem Label="File" ID="i_File"/>
+            <MenuItem Label="File From Web" ID="i_FileWeb"/>
+          </MenuGroup>
+        </MenuItem>
+        <MenuItem Label="Save" ID="i_Save"/>
+        <MenuItem Label="Save As..." ID="i_SaveAs"/>
+      </MenuGroup>
+    </MenuItem>
+
+    <MenuItem Label="Edit">
+      <MenuGroup ExpandOffsetY="1" ExpandOffsetX="-1">
+        <MenuItem Label="Cut" ID="i_Cut"/>
+        <MenuItem Label="Copy" ID="i_Copy"/>
+        <MenuItem Label="Paste" ID="i_Paste"/>
+        <MenuItem Label="IntelliSense"  RightIcon="arrow_white.gif" RightIconWidth="15">
+          <MenuGroup>
+            <MenuItem Label="List Members" ID="i_List"/>
+            <MenuItem Label="Parameter Info" ID="i_Info"/>
+            <MenuItem Label="Complete Word" ID="i_Complete"/>
+          </MenuGroup>
+        </MenuItem>
+      </MenuGroup>
+    </MenuItem>
+
+  <MenuItem Label="View">
+    <MenuGroup ExpandOffsetY="1" ExpandOffsetX="-1">
+      <MenuItem Label="Stop" ID="i_Stop"/>
+      <MenuItem Label="Refresh" ID="i_Refresh"/>
+      <MenuItem Label="Privacy Report..." ID="i_Privacy"/>
+      <MenuItem Label="Full Screen" ID="i_FullScreen"/>
+    </MenuGroup>
+  </MenuItem>
+
+  <MenuItem Label="Tools">
+    <MenuGroup ExpandOffsetY="1" ExpandOffsetX="-1">
+      <MenuItem Label="Mail and News" ID="i_Mail"/>
+      <MenuItem Label="Synchronize..." ID="i_Sync"/>
+      <MenuItem Label="Windows Update" ID="i_Update"/>
+      <MenuItem Label="Internet Options..." ID="i_Options"/>
+    </MenuGroup>
+  </MenuItem>
+  </MenuGroup> 
+</MenuData> 
+

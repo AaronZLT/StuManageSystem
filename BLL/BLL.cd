@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="StudentManager.BLL.Affiche">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Affiche.cs</FileName>
+      <HashCode>AAAAAQAAAAAAAAAAAAAEAAAAAAAQAAEAAIAACACAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManager.BLL.Common">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Common.cs</FileName>
+      <HashCode>AAAAAAAEADQCBAAAAAAAAAAAAAAAAAAAAAAAAACACIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManager.BLL.Course">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Course.cs</FileName>
+      <HashCode>AEAAAAIAgCAAhAAAAAAABgSkAAAAAMAAgAABCIAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManager.BLL.Department">
+    <Position X="1" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Department.cs</FileName>
+      <HashCode>QAAAABAAAAAABIAAAAEAIAAQAAAAAAAAAAAAAAAIAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManager.BLL.Speciality">
+    <Position X="4" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Speciality.cs</FileName>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManager.BLL.StuClass">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>StuClass.cs</FileName>
+      <HashCode>AAAAAAAAEAAAAAAAAABAAAAAACAAAAAAAAAAAAAAACA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManager.BLL.Student">
+    <Position X="2.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Student.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAMAAAAABAAAAAAAAAAAACAIAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManager.BLL.Teacher">
+    <Position X="4" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Teacher.cs</FileName>
+      <HashCode>AAAAAAQAAAAAAIAgAAAgAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>

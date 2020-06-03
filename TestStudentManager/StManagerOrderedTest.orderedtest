@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<OrderedTest id="b09a11b4-afbd-433e-ae36-758fcd53141b" name="StManagerOrderedTest" storage="g:\biyesheji\studentmanager\teststudentmanager\stmanagerorderedtest.orderedtest" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Description>Place your description here</Description>
+  <Execution timeOut="2147483647" />
+  <TestLinks>
+    <TestLink name="TestMethod1" storage="bin\debug\teststudentmanager.dll" id="4e9944a2-c9e0-8ea6-58f8-f6d403a2052e" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+  </TestLinks>
+</OrderedTest>

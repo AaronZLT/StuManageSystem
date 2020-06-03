@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="StudentManager.SQLServer.Affiche" BaseTypeListCollapsed="true">
+    <Position X="1" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Affiche.cs</FileName>
+      <HashCode>CAAAAAAAAgAIAAAAgCAAAQAAAAAAAAEEABAAKAAAAQA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="2.927" Collapsed="true" />
+  </Class>
+  <Class Name="StudentManager.SQLServer.Common" BaseTypeListCollapsed="true">
+    <Position X="5.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Common.cs</FileName>
+      <HashCode>gAAAAAAgAAAEAAEACAAIAAEAQAAAAAAAAQACAAAAEAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StudentManager.SQLServer.Course" BaseTypeListCollapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Course.cs</FileName>
+      <HashCode>RFAAAAIAgAQIBAgAJCAgBg6UAEIAAIEAoAARABhAAFg=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StudentManager.SQLServer.Department" BaseTypeListCollapsed="true">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Department.cs</FileName>
+      <HashCode>MAAAAAQAAEAIRIEAIAEEiAgQAoAAAAAAUAAACAAIJAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StudentManager.SQLServer.Speciality" BaseTypeListCollapsed="true">
+    <Position X="2.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Speciality.cs</FileName>
+      <HashCode>AAAAAAAAEAAIAAAAAAAAgAAQAAAAAAAAAAAAAAAAABA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StudentManager.SQLServer.StuClass" BaseTypeListCollapsed="true">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>StuClass.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAEAAABgAAAQAIAAAgAQAAAAAAAIBAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StudentManager.SQLServer.Student" BaseTypeListCollapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Student.cs</FileName>
+      <HashCode>QAIAgARAAIAAAIEIAAAAAZQAAIAAAggIAAIAAEAIBCI=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StudentManager.SQLServer.Teacher" BaseTypeListCollapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Teacher.cs</FileName>
+      <HashCode>ABiEAAQJAAAIAMIgAgSSAAgAAAA0AAAIAAAAIIAABIA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+</ClassDiagram>

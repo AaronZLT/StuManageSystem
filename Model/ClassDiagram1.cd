@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="StudentManager.Model.AfficheInf">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>AfficheInf.cs</FileName>
+      <HashCode>AAABAAAAAQAAAAAgAAAIAAAACASAEAAEgBAAAAAAACA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManager.Model.ClassInf">
+    <Position X="6.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ClassInf.cs</FileName>
+      <HashCode>AAAgAAAAIAAAACAAAAABAAAAEQAAABAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManager.Model.CourseInf">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>CourseInf.cs</FileName>
+      <HashCode>QEAAiERAIRAsACAyKCAAAAAAEAAAQBAIACABAAAAEKI=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManager.Model.DepartmentInf">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DepartmentInf.cs</FileName>
+      <HashCode>IAAAECAABAAAAAAgAAAAECAAAAAgAAAAAAAEACAAACA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManager.Model.SpecialityInf">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>SpecialityInf.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAACgAAAAgAAAEAAAgBCAAIAAgAAAACA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManager.Model.StudentInf">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>StudentInf.cs</FileName>
+      <HashCode>CAAAAAAAAACEQAAApGABACAgASAAAYAkQAGABAgAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManager.Model.TeacherInf">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>TeacherInf.cs</FileName>
+      <HashCode>AAAAAAIEAAAUBAJogAAAAAIIhAAEAAZIgBQAABAMkiA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>
