@@ -14,8 +14,6 @@ namespace StudentManager.BLL
 {
     /// <summary>
     /// 公共信息实体业务层
-    /// 创建者:余洪
-    /// 时间:2008-3
     /// </summary>
     public  class Common
     {

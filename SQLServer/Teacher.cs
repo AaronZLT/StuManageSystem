@@ -12,8 +12,6 @@ namespace StudentManager.SQLServer
     
     /// <summary>
     /// 数据访问层
-    /// 创建者:余洪
-    /// 时间:2008-3
     /// </summary>
     public class Teacher:SqlServerBaseDb,ITeacher
     {

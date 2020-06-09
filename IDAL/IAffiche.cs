@@ -7,8 +7,6 @@ namespace StudentManager.IDAL
 {
     /// <summary>
     /// 公告接口
-    /// 创建者:余洪
-    /// 时间:2008-3
     /// </summary>
     public interface IAffiche
     {

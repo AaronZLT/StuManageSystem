@@ -6,8 +6,6 @@ namespace StudentManager.Model
 {
     /// <summary>
     /// 公告信息
-    /// 创建者:余洪
-    /// 时间:2008-3
     /// </summary>
     public class AfficheInf
     {

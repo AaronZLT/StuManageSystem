@@ -9,8 +9,6 @@ namespace StudentManager.SQLServer
 {
     /// <summary>
     /// 公告信息访问层
-    /// 创建者:余洪
-    /// 时间:2008-3
     /// </summary>
     public class Affiche:SqlServerBaseDb,IAffiche
     {

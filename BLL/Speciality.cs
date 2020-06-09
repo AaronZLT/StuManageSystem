@@ -13,8 +13,6 @@ namespace StudentManager.BLL
 {
     /// <summary>
     /// 逻辑层专业类体
-    /// 作者:余洪
-    /// 时间:2008-05-01
     /// </summary>
     public class Speciality
     {

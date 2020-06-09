@@ -16,8 +16,6 @@ namespace StudentManager.BLL
 {
     /// <summary>
     /// 业务逻辑层公告实体
-    /// 创建者:余洪
-    /// 时间:2008-3
     /// </summary>
     public class Affiche
     {

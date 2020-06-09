@@ -14,8 +14,6 @@ namespace StudentManager.SQLServer
     #region 部门(学院,其他部门数据访问层类体)
     /// <summary>
     /// 数据访问层
-    /// 创建者:余洪
-    /// 时间:2008
     /// </summary>
     public class Department:SqlServerBaseDb,IDepartment
     {

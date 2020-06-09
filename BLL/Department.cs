@@ -15,8 +15,6 @@ namespace StudentManager.BLL
 {
     /// <summary>
     /// 部门业务逻辑层务层
-    /// 创建者:余洪
-    /// 时间:2008-3
     /// </summary>
     public class Department
     {

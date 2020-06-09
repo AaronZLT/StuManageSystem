@@ -9,8 +9,6 @@ namespace StudentManager.DALFactory
 {
     /// <summary>
     /// 反射工厂类创建实体对象
-    /// 创建者:余洪
-    /// 时间:2008-03
     /// </summary>
     public sealed class DataAccess
     {

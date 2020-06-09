@@ -63,7 +63,9 @@ window.open('DownLoadFile.aspx?fname=template.xls');
         <tr>
             <td align="right" colspan="3" style="background-image: url(Images/bottom_bg.gif);
                 width: 929px; height: 25px; text-align: right" valign="middle">
-                power &nbsp;by JLU
+                    <%--
+                        power &nbsp;by  &nbsp;&nbsp;
+                        --%>       
             </td>
         </tr>
     </table>

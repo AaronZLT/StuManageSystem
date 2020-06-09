@@ -1,4 +1,3 @@
-//isaac at Feb 23 2005 11:31
 function astrology(month,day){
 	document.write('<a href="/frames.html?mainurl=/bbsdoc.php?board=birthday" class="astro" title="µã»÷½øÈëbirthday°æ">');
 	var constellation = new Array(

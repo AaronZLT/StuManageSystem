@@ -6,8 +6,6 @@ namespace StudentManager.Model
 {
     /// <summary>
     /// 部门实体类
-    /// 创建者:余洪
-    /// 时间:2008-3-28
     /// </summary>
     public  class DepartmentInf
     {

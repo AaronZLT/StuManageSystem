@@ -149,7 +149,9 @@ location.replace('Default.aspx');
                 background-image: url(Images/bottom_bg.gif); border-left: #99ccff 0.1em solid;
                 width: 929px; border-bottom: #99ccff 0.1em solid; height: 25px; text-align: right"
                 valign="middle">
-                power &nbsp;by JLU
+                    <%--
+                        power &nbsp;by  &nbsp;&nbsp;
+                        --%>       
             </td>
         </tr>
     </table>

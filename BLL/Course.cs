@@ -14,8 +14,6 @@ namespace StudentManager.BLL
 {
     /// <summary>
     /// 课程业务逻辑层务层
-    /// 创建者:余洪
-    /// 时间:2008-5
     /// </summary>
     public class Course
     {

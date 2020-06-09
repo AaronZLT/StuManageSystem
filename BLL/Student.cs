@@ -16,8 +16,6 @@ namespace StudentManager.BLL
 {
     /// <summary>
     /// 学生业务层
-    /// 创建者:余洪
-    /// 时间:2008-3
     /// </summary>
     public class Student
     {

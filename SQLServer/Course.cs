@@ -225,7 +225,7 @@ namespace StudentManager.SQLServer
                 MakeInParm(PC_ID,SqlDbType.BigInt,8,pc_Id),
                 MakeInParm(PC_YEAR,SqlDbType.Char,10,LearnYear),
                 MakeInParm(PC_TERM,SqlDbType.Int,4,LearnTerm),
-                MakeInParm(TE_ID,SqlDbType.VarChar,10,te_id)
+                //MakeInParm(TE_ID,SqlDbType.VarChar,10,te_id)
             };
             try
             {
@@ -375,19 +375,22 @@ namespace StudentManager.SQLServer
             SqlParameter[] parms ={
                 MakeInParm(TE_ID,SqlDbType.VarChar,10,te_ID)
             };
+            
             try
             {
-                return ExecProcDs("GetTeachList", parms).Tables[0];
+                return ExecProcDs("ViewTeachCourses", parms).Tables[0];
             }
             catch
             {
                 return null;
             }
+        
+           // return ExecProcDs("GetTeacherList", parms).Tables[0];
         }
-        #endregion
+            #endregion
 
-        #region 更新成绩
-        public int UpdateScore(string cb_id, string st_id, float score,string te_id)
+            #region 更新成绩
+            public int UpdateScore(string cb_id, string st_id, float score,string te_id)
         {
             SqlParameter[] parms ={
                 MakeInParm(CB_ID,SqlDbType.VarChar,10,cb_id),

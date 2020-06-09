@@ -8,8 +8,6 @@ namespace StudentManager.IDAL
 {
     /// <summary>
     /// 学生接口
-    /// 创建者:余洪
-    /// 时间:2008
     /// </summary>
    public interface IStudent
    {

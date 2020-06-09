@@ -10,8 +10,6 @@ namespace StudentManager.SQLServer
 {
     /// <summary>
     /// 公共数据访问
-    /// 创建者:余洪
-    /// 时间:2008-3
     /// </summary>
     public class Common:SqlServerBaseDb,ICommon
     {

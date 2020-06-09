@@ -8,8 +8,6 @@ namespace StudentManager.Common
 {
     /// <summary>
     /// 一些Java script调用
-    /// 创建者:余洪
-    /// 时间:2008-3
     /// </summary>
     public class JScript
     {

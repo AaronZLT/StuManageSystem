@@ -3,7 +3,6 @@ using System.Configuration;
 using System.Data;
 using System.Data.OracleClient;
 using System.Collections;
-//5_1_a_s_p_x.c_o_m
 
 namespace StudentManager.DBUtility
 {

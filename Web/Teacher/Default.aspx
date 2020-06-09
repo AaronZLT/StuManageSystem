@@ -36,7 +36,9 @@
         </tr>
         <tr>
             <td colspan="3" style="background-image: url(Images/bottom_bg.gif); height: 25px; width: 929px;" align="right" valign="middle">
-                power &nbsp;by JLU </td>
+                    <%--
+                        power &nbsp;by  &nbsp;&nbsp;
+                        --%>       
         </tr>
     </table>
     </div>

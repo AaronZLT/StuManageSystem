@@ -68,7 +68,9 @@ location.replace('Default.aspx');
             <tr>
                 <td colspan="2" style="background-image: url(Images/bottom_bg.gif); height: 23px;
                     text-align: right">
-                    power &nbsp;by JLU &nbsp;&nbsp;
+                    <%--
+                        power &nbsp;by  &nbsp;&nbsp;
+                        --%>       
                 </td>
             </tr>
         </table>

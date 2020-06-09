@@ -6,8 +6,6 @@ namespace StudentManager.Model
 {
     /// <summary>
     /// 教师实体类
-    /// 创建者:余洪
-    /// 时间:2008-3-27
     /// </summary>
     public class TeacherInf
     {

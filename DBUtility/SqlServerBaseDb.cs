@@ -8,9 +8,6 @@ namespace StudentManager.DBUtility
 {
     /// <summary>
     /// SQL SERVER 数据库访问基类
-    /// 创建者:余洪
-    /// 时间:2008-3-25
-    /// 2008-08-06 首发于51aspx.com，转载请注明
     /// </summary>
     public class SqlServerBaseDb
     {
@@ -357,4 +354,3 @@ namespace StudentManager.DBUtility
         #endregion
     }
 }
-//5_1_a_s_p_x.c_o_m

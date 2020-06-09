@@ -74,18 +74,22 @@ location.replace('Default.aspx');
                             上课学年:</td>
                         <td style="width: 278px; height: 20px; text-align: left">
                             <asp:DropDownList ID="ddlLearnYear" runat="server" Width="85px">
-                                <asp:ListItem>2004-2005</asp:ListItem>
-                                <asp:ListItem>2005-2006</asp:ListItem>
-                                <asp:ListItem>2006-2007</asp:ListItem>
-                                <asp:ListItem>2007-2008</asp:ListItem>
-                                <asp:ListItem>2008-2009</asp:ListItem>
-                                <asp:ListItem>2009-2010</asp:ListItem>
+                                <asp:ListItem>2019-2020</asp:ListItem>
+                                <asp:ListItem>2020-2021</asp:ListItem>
+                                <asp:ListItem>2021-2022</asp:ListItem>
+                                <asp:ListItem>2022-2023</asp:ListItem>
+                                <asp:ListItem>2023-2024</asp:ListItem>
+                                <asp:ListItem>2024-2025</asp:ListItem>
+                                <asp:ListItem>2025-2026</asp:ListItem>
+                                <asp:ListItem>2026-2027</asp:ListItem>
+                                <asp:ListItem>2027-2028</asp:ListItem>
+                                <asp:ListItem>2028-2029</asp:ListItem>
+                                <asp:ListItem>2029-2030</asp:ListItem>
                             </asp:DropDownList>
                             学年
                             <asp:DropDownList ID="ddlLearnTerm" runat="server" Width="34px">
                                 <asp:ListItem>1</asp:ListItem>
                                 <asp:ListItem>2</asp:ListItem>
-                                <asp:ListItem>3</asp:ListItem>
                             </asp:DropDownList>学期</td>
                         <td style="width: 168px; height: 20px; text-align: left">
                             上课时间:</td>
